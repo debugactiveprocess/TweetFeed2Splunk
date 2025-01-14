@@ -49,6 +49,9 @@ python log_streamer.py
 
  ```
 
+![](./sample.jpeg)
+
+
 
 ### Explanation:
 - This markdown file includes all the necessary steps in one document for the user to follow.
