@@ -1,4 +1,4 @@
-# TweetFeed2Splunk
+![](./dashboard.png)
 A Python script that fetches logs from the TweetFeed API every 5 minutes and sends them to Splunk in the 'main' index, ensuring no duplicate entries. The script processes and hashes each log to avoid repetitions and streamline log monitoring in real-time.
 
 # Splunk Log Streamer Setup with Docker
@@ -51,7 +51,9 @@ python log_streamer.py
 
 ![](./sample.jpeg)
 
+## Dashbaord sample
 
+Create a dashboard with dashboardsample.xml file
 
 ### Explanation:
 - This markdown file includes all the necessary steps in one document for the user to follow.
