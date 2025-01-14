@@ -51,9 +51,9 @@ python log_streamer.py
 
 ![](./sample.jpeg)
 
-## Dashbaord sample
+## Dashboard sample
 
-Create a dashboard with dashboardsample.xml file
+ - Create a dashboard with dashboardsample.xml file
 
 ### Explanation:
 - This markdown file includes all the necessary steps in one document for the user to follow.
